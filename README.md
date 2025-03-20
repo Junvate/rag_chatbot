@@ -1,9 +1,27 @@
-# 智能文档问答系统 - Multi-RAG
+# 项目名称：RAG智能问答系统
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
-基于混合检索增强生成（Hybrid-RAG）的长文档处理系统，解决技术博客、论文等专业领域文档的智能问答需求。通过动态知识注入和三级验证机制，实现**93.6%**的溯源准确率，幻觉发生率较原生LLM降低78%。
+
+## 项目概述
+
+该项目为基于 RAG（Retrieval-Augmented Generation） 的智能问答系统，结合检索与生成技术，利用 LangChain 框架实现高效的对话管理功能。
+
+## 技术亮点
+
+#### 应用 RAG 技术，通过检索预加载文档生成准确的回答。
+#### 集成 LangChain，实现对话流程管理和上下文记忆。
+#### 利用嵌入模型与向量存储，优化语义搜索的高效检索能力。
+## 个人贡献
+#### 设计并实现了系统架构与核心功能。
+#### 优化了检索与生成模块的性能，确保系统运行稳定。
+## 项目价值
+
+该项目展示了 RAG 与 LangChain 在智能对话领域的应用潜力，可广泛用于客服支持、知识查询等场景。
+
+
+
 
 ## 🌟 核心功能
 
