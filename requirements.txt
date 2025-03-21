@@ -25,7 +25,7 @@ backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_l
 backports.tempfile @ file:///home/linux1/recipes/ci/backports.tempfile_1610991236607/work
 backports.weakref==1.0.post1
 bcrypt @ file:///tmp/abs_6fpe92qzzo/croots/recipe/bcrypt_1659554336150/work
-beautifulsoup4 @ file:///opt/conda/conda-bld/beautifulsoup4_1650462163268/work
+beautifulsoup4==4.13.3
 binaryornot @ file:///tmp/build/80754af9/binaryornot_1617751525010/work
 black @ file:///opt/conda/conda-bld/black_1660237809219/work
 bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
@@ -148,7 +148,7 @@ langchain-community==0.3.20
 langchain-core==0.3.45
 langchain-openai==0.3.8
 langchain-text-splitters==0.3.7
-langgraph==0.3.16
+langgraph==0.3.18
 langgraph-checkpoint==2.0.21
 langgraph-prebuilt==0.1.3
 langgraph-sdk==0.1.57
