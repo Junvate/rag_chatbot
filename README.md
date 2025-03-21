@@ -23,16 +23,6 @@
 
 
 
-## 🌟 核心功能
-
-| 功能模块             | 技术实现                                                                 |
-|----------------------|--------------------------------------------------------------------------|
-| 分层语义解析         | 双向LSTM + Hierarchical Attention Network                                |
-| 混合检索引擎         | Faiss-IVF + BM25 联合检索 (召回率@10=92.4%)                             |
-| 动态知识更新         | LSM-Tree索引架构 (12K docs/sec 吞吐量)                                  |
-| 幻觉抑制机制         | Entropy-regularized Beam Search + FactCheck-GPT 验证                    |
-| 领域适配优化         | BERT-Whitening 向量白化技术                                             |
-
 ## 🛠️ 技术架构
 
 ```mermaid
