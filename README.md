@@ -9,6 +9,7 @@
 
 基于检索增强生成技术（RAG）构建的智能问答系统，无缝结合了先进的检索与生成能力。利用 LangChain 框架，实现了高效的对话管理与知识检索功能，为用户提供准确、智能的信息响应。
 
+```mermaid
 graph LR
     A[User Input] --> B[FastAPI Server]
     B --> C[LangChain]
@@ -21,6 +22,7 @@ graph LR
     C --> H[Response Generation]
     H --> D
     B --> I[Langchain Tracing]
+```
 
 
 ## 技术亮点
