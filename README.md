@@ -4,6 +4,9 @@
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Framework: LangChain](https://img.shields.io/badge/Framework-LangChain-green.svg)](https://langchain.com/)
 [![LLM: OpenAI](https://img.shields.io/badge/LLM-OpenAI-lightgrey.svg)](https://openai.com/)
+## 运行示例
+![image](https://github.com/user-attachments/assets/1d59eca4-4465-432a-a7f5-338322c7835b)
+
 ## 📖项目概述
 
 
