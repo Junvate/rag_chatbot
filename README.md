@@ -7,6 +7,27 @@
 ## 运行示例
 ![image](https://github.com/user-attachments/assets/1d59eca4-4465-432a-a7f5-338322c7835b)
 
+
+### 快速运行
+
+```bash
+# 克隆项目
+git clone https://github.com/mewchao/rag_chatbot.git
+cd rag_chatbot
+```
+#### 创建虚拟环境
+```python
+python -m venv .venv
+.\.venv\Scripts\activate   # Windows
+```
+#### 安装依赖
+```python
+pip install -r requirements.txt
+```
+####
+```python
+python gui.py
+```
 ## 📖项目概述
 
 
